@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/**/
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    display: block;
+    width: 100%;
+}
+li{
+    list-style: none;
+}
+
+body{    
+    
+    font-family: 'Open Sans', sans-serif;
+    background-color: #1e3c72;
+    color: rgb(220, 220, 220);
+    height: 100vh;
+}
+
+.hero{
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero_links{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.hero_menu{
+    display: none;
+}
+
+.inicio{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.inicio_content{
+    width: 20rem;
+    margin: 0 auto;
+}
+
+.inicio_content h1{
+    margin: 1rem 0;
+}
+
+.inicio_content p{
+    margin: 1rem 0;
+}
+.inicio_cta{
+    cursor: pointer;
+    padding: 0.5rem 1.9rem;
+    color:  #1e3c72;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.inicio_cta:hover{
+    border: 2px solid whitesmoke;
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+.inicio_image{
+    width: 15rem;
+    margin: 2rem auto;
+    display: block;
+
+}
+
+footer{
+    padding: 1rem;
+    text-align: center;
+    border-top: 3px dashed white;
+}
+footer a{
+    color:  #739be6;
+    text-decoration: none;
+    font-size: 1.2rem;
+    
+}
+
+
+@media screen and (min-width: 450px) {
+    main{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .hero_menu{
+        display: block;
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+    .hero_links{
+        display: none;        
+    }  
+    .inicio{
+        display: flex;
+        flex-direction: column;        
+        margin: 2rem;
+    }
+    .inicio h1{
+        font-size: 2rem;
+    }
+    .inicio p{
+        font-size: 1.5rem;
+    }
+    .inicio_image{
+        display: block;
+    }
+    footer{
+        display: block;
+    }
+    
+}
+
+@media screen and (min-width: 600px) {
+    .hero_menu{
+        display: none;        
+    }    
+    .hero_links{
+        display: flex;              
+    }
+}
+
+@media screen and (min-width: 750px) {
+    main{
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    .inicio{
+        display: flex;
+        flex-direction: row;
+
+    }
+    .hero_links{
+       font-size: 1.2rem;              
+    }
+} 
+
+@media screen and (min-width: 850px) {
+    main{
+        max-width: 950px;
+        margin: 0 auto;
+    }
+}
