@@ -2,8 +2,11 @@
 Desenvolvido por 👨‍💻 @diegolazarocs
 
 ✨ Nome			minilandingpage
+
 🏁 INICIADO EM		06/01/2024
+
 ✅ FINALIZADO EM	06/01/2024
+
 ⚙️ TECNOLOGIAS		HTML5, CSS3
 
 ## Detalhes
