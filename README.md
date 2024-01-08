@@ -1,20 +1,22 @@
-# Mini-landing-page
-## Mini Landing Page
+# Mini Lading Page
+Desenvolvido por 👨‍💻 @diegolazarocs
 
-Projeto feito apenas com HTML e CSS
-View:
+✨ Nome			minilandingpage
+🏁 INICIADO EM		06/01/2024
+✅ FINALIZADO EM	06/01/2024
+⚙️ TECNOLOGIAS		HTML5, CSS3
 
-mobile mode:
+## Detalhes
+O projeto foi criado utilizando apenas: HTML e CSS, landing page responsiva.
 
-![mini-landing-page MOBILE MODE](https://github.com/diegolazarocs/mini-landing-page/assets/111025421/903feda9-34d9-45e2-8e3d-f948b79073e8)
+## Objetivo
+Recriar projeto do FrontEnd Challenges 
+
+## Pré-visualização:
 
 
-table mode:
+https://github.com/diegolazarocs/mini-landing-page/assets/111025421/06b9f7d4-b178-47d9-a035-bca4f29d4f88
 
-![mini-landing-page TABLET MODE](https://github.com/diegolazarocs/mini-landing-page/assets/111025421/f2a61be2-1291-403f-9324-0adf274ad711)
 
-desktop mode:
-
-![mini-landing-page DESKTOP MODE](https://github.com/diegolazarocs/mini-landing-page/assets/111025421/395f61db-a809-4c54-ac0c-ed272bde656e)
 
 
