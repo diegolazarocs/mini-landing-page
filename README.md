@@ -18,7 +18,9 @@ Recriar projeto do FrontEnd Challenges
 ## Pré-visualização:
 
 
-https://github.com/diegolazarocs/mini-landing-page/assets/111025421/06b9f7d4-b178-47d9-a035-bca4f29d4f88
+
+https://github.com/diegolazarocs/mini-landing-page/assets/111025421/9136c459-66dd-4123-b1e0-46f6ba6a54dc
+
 
 
 
